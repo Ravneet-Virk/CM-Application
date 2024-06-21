@@ -85,6 +85,6 @@ label {
     input,
     button,
     .contact-list {
-        font-size: 14px;
+        font-size: 1rem;
     }
 }
