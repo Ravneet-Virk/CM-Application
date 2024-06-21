@@ -9,3 +9,9 @@
     padding: 10px 0;
     font-size: 40px;
 }
+
+@media screen and (max-width: 500px) {
+    .header h1{
+        font-size: 30px;
+    }   
+}
